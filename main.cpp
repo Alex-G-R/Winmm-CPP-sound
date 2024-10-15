@@ -16,7 +16,7 @@ int main()
     else {
         std::cerr << "Error playing sound - Check the file patd" << std::endl;
     }
-    Sleep(30000); // Sleep for 30 seconds
+    Sleep(300000); // Sleep for 300 seconds
 
     return 0;
 }
